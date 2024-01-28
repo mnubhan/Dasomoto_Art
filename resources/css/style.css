@@ -1,0 +1,24 @@
+h1{
+    color: khaki;
+    font-size: 100px;
+    background-image:url("../images/pattern.jpeg");
+    text-align: center;
+}
+h2{
+    color:#fff;
+}
+section.brushes h2{
+    background-color:mediumspringgreen;
+}
+section.frames h2{
+    background-color:lightcoral;
+}
+section.paint h2{
+    background-color:skyblue;
+}
+h1, h2, h3, p{
+    font-family: Helvetica;
+}
+span{
+    color:blue;
+}
